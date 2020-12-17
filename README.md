@@ -6,10 +6,10 @@
 apt install git -y
 ```
 ```
-apt install python python2 python3 -y
+apt install python python2 -y
 ```
 ```
-git clone https://www.github.com/GHHC
+git clone https://www.github.com/Tasin-coder/GHHC
 ```
 ```
 cd GHHC
